@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"JJYYNiagaraUIParticle": "UE4Editor-JJYYNiagaraUIParticle.dll",
+		"JJYYNiagaraUIParticleEditor": "UE4Editor-JJYYNiagaraUIParticleEditor.dll"
+	}
+}
